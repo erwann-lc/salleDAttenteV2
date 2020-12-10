@@ -1,5 +1,6 @@
 package leChenadec.tp3;
 
+// Hello you
 
 public class ArticlePrio extends Article implements AvecPrio
 {
